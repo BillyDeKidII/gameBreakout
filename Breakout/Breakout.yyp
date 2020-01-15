@@ -39,6 +39,22 @@
             }
         },
         {
+            "Key": "03a16df0-1714-48e7-be75-4f359e609dd0",
+            "Value": {
+                "id": "0c4c019b-0906-4946-b425-9a5d36e4eee7",
+                "resourcePath": "objects\\obj_parede2\\obj_parede2.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "05c7de0c-9d18-4031-8639-bed5805b8758",
+            "Value": {
+                "id": "f94a7790-f22a-4217-b0cb-5d9a4d79f204",
+                "resourcePath": "objects\\obj_instrucoes\\obj_instrucoes.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "265ee68a-e065-40a0-9f32-67b70d371c73",
             "Value": {
                 "id": "4fbaeb6c-0e0b-42e4-af54-a3ecc0d74228",
@@ -55,11 +71,27 @@
             }
         },
         {
+            "Key": "37e155fb-8b6e-42a8-b2df-bb379ba715a5",
+            "Value": {
+                "id": "df491fc2-57bf-4c3a-a09f-8ec651c661e6",
+                "resourcePath": "objects\\obj_jogar\\obj_jogar.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "3e27e344-bcc6-4c28-803f-6f4abf507353",
             "Value": {
                 "id": "63d2edd0-2878-4315-96c3-505961bc7ca0",
                 "resourcePath": "views\\3e27e344-bcc6-4c28-803f-6f4abf507353.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "3ee1e063-fa40-4a23-a514-1e54dc6f0704",
+            "Value": {
+                "id": "f5c91021-56de-4cfa-8c82-023d0ab28500",
+                "resourcePath": "fonts\\fonte1\\fonte1.yy",
+                "resourceType": "GMFont"
             }
         },
         {
@@ -79,11 +111,51 @@
             }
         },
         {
+            "Key": "45c2e448-486a-4759-beff-bef864c8e6b9",
+            "Value": {
+                "id": "344e297d-74f0-4989-8bf9-68f145100f47",
+                "resourcePath": "objects\\obj_sair\\obj_sair.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "4d46615e-84d8-4c0b-a037-3e6b083d749f",
+            "Value": {
+                "id": "95848ec7-58c7-4714-8d3b-90d34fc03b7e",
+                "resourcePath": "sounds\\som_perdeu\\som_perdeu.yy",
+                "resourceType": "GMSound"
+            }
+        },
+        {
+            "Key": "4e6991d1-d502-4b7d-8990-e14c18ee4892",
+            "Value": {
+                "id": "ced7b134-9166-45a2-a43d-bf1315573ed4",
+                "resourcePath": "objects\\obj_player\\obj_player.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
+            "Key": "590e4438-c148-47b5-ab2a-d511c13949b8",
+            "Value": {
+                "id": "57aa703f-56ac-4a04-986d-8d56706a9c3a",
+                "resourcePath": "objects\\obj_bloco\\obj_bloco.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "618f6138-c270-4807-9f50-0da364c7e1d9",
             "Value": {
                 "id": "41a6a6b8-53e1-4cdc-aa73-0c249f4310d4",
                 "resourcePath": "views\\618f6138-c270-4807-9f50-0da364c7e1d9.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "63260e47-37e6-4b05-9146-73386013cb3c",
+            "Value": {
+                "id": "f1706686-2030-40cd-b1f7-069896645b06",
+                "resourcePath": "objects\\obj_rampa\\obj_rampa.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -175,6 +247,14 @@
             }
         },
         {
+            "Key": "b485d634-783f-4e8f-b528-84454b63e79a",
+            "Value": {
+                "id": "f3b40e9d-8923-4ff8-92f8-41fde7645608",
+                "resourcePath": "objects\\obj_parede\\obj_parede.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c08a7e95-dd39-40fc-bfd3-46b346f58165",
             "Value": {
                 "id": "c594c0de-20b5-4975-b893-e2d3a4a983be",
@@ -183,11 +263,27 @@
             }
         },
         {
+            "Key": "c12c5bc3-fcc6-4b33-a196-c8e4ddcbf635",
+            "Value": {
+                "id": "dd74f03f-6af1-4ba7-842d-7d5313c3a202",
+                "resourcePath": "objects\\obj_controle\\obj_controle.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "c3e40eb1-b626-4a9d-b4be-6d3508143d37",
             "Value": {
                 "id": "9c4c6c71-976f-487c-86ce-7b455ec842b3",
                 "resourcePath": "sprites\\titulo\\titulo.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "c63f5e3d-dddd-4032-85d4-7397fc7a51f1",
+            "Value": {
+                "id": "eb6daf19-924e-4a51-bb0a-f293565d2d59",
+                "resourcePath": "objects\\obj_titulo\\obj_titulo.yy",
+                "resourceType": "GMObject"
             }
         },
         {
@@ -212,6 +308,14 @@
                 "id": "f97c8278-e707-4943-9898-9d1633e0bebd",
                 "resourcePath": "views\\d7aa4649-15ee-4b13-9c6f-f36ac1a0679f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "daeac324-b133-450b-9a90-2a99fba43625",
+            "Value": {
+                "id": "b48a6675-ec2b-4a5a-adc4-f3f7766c2bda",
+                "resourcePath": "sounds\\som_pontos\\som_pontos.yy",
+                "resourceType": "GMSound"
             }
         },
         {
@@ -244,6 +348,14 @@
                 "id": "dfa2410a-8caa-41e5-b528-d5cf2d840700",
                 "resourcePath": "sprites\\sair\\sair.yy",
                 "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "f2feb945-578f-489e-b53d-ea960bd5e0a8",
+            "Value": {
+                "id": "2cf99436-e03f-4401-9b99-7d3df6aebe22",
+                "resourcePath": "sounds\\som_fundo\\som_fundo.yy",
+                "resourceType": "GMSound"
             }
         }
     ],
