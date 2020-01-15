@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_sair",
     "eventList": [
-        
+        {
+            "id": "5bc2989f-7df6-41c5-9b70-9414ddc92ee3",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 6,
+            "m_owner": "45c2e448-486a-4759-beff-bef864c8e6b9"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,

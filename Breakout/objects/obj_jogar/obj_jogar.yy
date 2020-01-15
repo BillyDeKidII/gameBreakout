@@ -4,7 +4,16 @@
     "mvc": "1.0",
     "name": "obj_jogar",
     "eventList": [
-        
+        {
+            "id": "36ca1443-c790-4a38-aaa6-b414e5a1f818",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": false,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 6,
+            "m_owner": "37e155fb-8b6e-42a8-b2df-bb379ba715a5"
+        }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
     "overriddenProperties": null,
