@@ -1,0 +1,1 @@
+audio_play_sound(som_fundo,10,true);
